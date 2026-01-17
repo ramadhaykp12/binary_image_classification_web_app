@@ -1,1 +1,1 @@
-# binary_image_classification_web_app
+# Binary Image Classification Web App
